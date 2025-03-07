@@ -1,2 +1,2 @@
 # Network-Inventory-Update
-Version updates for the network inventory program
+Version updates for the Lightriver Automated Multivendor Inventory System
